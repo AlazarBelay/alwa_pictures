@@ -1,4 +1,4 @@
-## LX GALLERY
+## Alwa_pictures
 
 <img align="right" alt="PIC" src="https://github.com/0AIB/images/blob/master/images/gallery.png?raw=true"/>
 
