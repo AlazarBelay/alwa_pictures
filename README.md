@@ -5,12 +5,12 @@
 
 ### <div align="center">
 
-|[VISIT OUR GALLERY HERE 💕](https://0AIB.github.io/Lx-Gallery/) </div>
+|[VISIT OUR GALLERY HERE 💕](https://alazarbelay.github.io/alwa_pictures/) </div>
 |---
 
 <br>
 
-- [Contributing Guidelines HERE](https://github.com/0AIB/Lx-Gallery/blob/master/Guidelines.md)
+- [Contributing Guidelines HERE](https://alazarbelay.github.io/alwa_pictures/)
 <br>
 
 ### Repo Status 
